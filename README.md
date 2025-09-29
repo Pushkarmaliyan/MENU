@@ -14,13 +14,6 @@ This project showcases a **menu page** with appetizers, main courses, desserts, 
 
 ---
 
-## 📸 Preview  
-Here’s a glimpse of the Mafia Café Menu layout:  
-
-![Mafia Cafe Screenshot](![Uploading image.png…]()
-)  
-
----
 
 ## 🛠️ Tech Stack  
 - **HTML5** – for structure  
