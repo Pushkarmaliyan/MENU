@@ -17,7 +17,7 @@ This project showcases a **menu page** with appetizers, main courses, desserts, 
 ## 📸 Preview  
 Here’s a glimpse of the Mafia Café Menu layout:  
 
-![Mafia Cafe Screenshot](https://placehold.co/800x400?text=Mafia+Cafe+Menu+Preview)  
+![Mafia Cafe Screenshot](file:///C:/Users/pushkar%20maliyan/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/menu.html)  
 
 ---
 
